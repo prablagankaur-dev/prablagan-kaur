@@ -1,6 +1,6 @@
 # Employee Payroll System
 
-**Author:** Vandana Tanwar  
+**Author:** PRABLAGAN KAUR  
 **Project Type:** DBMS / Oracle SQL  
 
 ## Description
